@@ -15,6 +15,7 @@ This power BI dashboard provides insights into electric vehicles(EV) charging pa
 - Calculates the average time it takes to charge an EV.
 - Measures the utilization rate of charging stations.
 ## Dashboard 
+https://github.com/abebag2022/EV-charging-pattern/blob/main/EV%20charging%20pattern%20Bi%20dashboard%20screenshot%20-%20Copy.png
 
 
 
