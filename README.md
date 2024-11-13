@@ -14,5 +14,6 @@ This power BI dashboard provides insights into electric vehicles(EV) charging pa
 - Identifies the peak demand period for EV charging.
 - Calculates the average time it takes to charge an EV.
 - Measures the utilization rate of charging stations.
+## Dashboard 
 
 
