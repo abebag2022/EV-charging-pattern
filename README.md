@@ -5,9 +5,9 @@ This power BI dashboard provides insights into electric vehicles(EV) charging pa
 - <a href = "https://github.com/abebag2022/EV-charging-pattern/blob/main/ev_charging_patterns.csv">EV charging pattern/kaggle</a>
 ## Dashboard features
 Dashboard Features:
-•	Real-time Charging Status: Visualize the current charging status of EVs, including charging rates and estimated completion times.
-•	Historical Charging Patterns: Analyze historical charging data to identify trends and patterns, such as peak usage times and charging durations.
-•	Geographical Distribution: Map EV charging stations and visualize the geographical distribution of charging activity.
-•	Energy Consumption Analysis: Track energy consumption by EV charging stations and identify areas for optimization.
-•	User Segmentation: Segment users based on charging behavior, such as frequent chargers, occasional chargers, and overnight chargers.
+-	Visualize the current charging status of EVs, including charging rates and estimated completion times.
+-	Analyze historical charging data to identify trends and patterns, such as peak usage times and charging durations.
+-	Map EV charging stations and visualize the geographical distribution of charging activity.
+-	Track energy consumption by EV charging stations and identify areas for optimization.
+-	Segment users based on charging behavior, such as frequent chargers, occasional chargers, and overnight chargers.
 
