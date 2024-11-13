@@ -9,4 +9,10 @@ This power BI dashboard provides insights into electric vehicles(EV) charging pa
 -	Map EV charging stations and visualize the geographical distribution of charging activity.
 -	Track energy consumption by EV charging stations and identify areas for optimization.
 -	Segment users based on charging behavior, such as frequent chargers, occasional chargers, and overnight chargers.
+## Key Performance Indicators (KPIs):
+- Tracks the total amount of energy consumed by EVs.
+- Identifies the peak demand period for EV charging.
+- Calculates the average time it takes to charge an EV.
+- Measures the utilization rate of charging stations.
+
 
