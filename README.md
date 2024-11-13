@@ -10,3 +10,4 @@ Dashboard Features:
 •	Geographical Distribution: Map EV charging stations and visualize the geographical distribution of charging activity.
 •	Energy Consumption Analysis: Track energy consumption by EV charging stations and identify areas for optimization.
 •	User Segmentation: Segment users based on charging behavior, such as frequent chargers, occasional chargers, and overnight chargers.
+
